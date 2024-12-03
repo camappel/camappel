@@ -8,4 +8,4 @@
 
 - 🎓 MSc in Health Data Analytics and Machine Learning from Imperial College London & BA in Economics from Columbia University.
 
-[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=anuraghazra)](https://github.com/anuraghazra/github-readme-stats)
+[![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=camappel)](https://github.com/anuraghazra/github-readme-stats)
