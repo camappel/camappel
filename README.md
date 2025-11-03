@@ -7,3 +7,5 @@
 - 🌎 Previously worked on the [COVID-19 Dataset](https://github.com/owid/covid-19-data) by [Our World in Data](https://ourworldindata.org/).
 
 - 🎓 MSc in Health Data Analytics and Machine Learning from Imperial College London & BA in Economics from Columbia University.
+
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=camappel&show_icons=true&theme=dark&locale=en" alt="camappel" /></p>
